@@ -1,5 +1,5 @@
 # orderBook
-requarments:
+requirements:
 cmake, make
 
 for build:
